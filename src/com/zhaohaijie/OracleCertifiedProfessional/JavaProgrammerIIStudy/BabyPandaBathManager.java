@@ -10,6 +10,7 @@ import java.util.stream.*;
 public class BabyPandaBathManager {
     public static void await(CyclicBarrier cb) {
         try {
+            System.out.println("Await: " + Thread.currentThread().getId());
             cb.await();
         } catch (InterruptedException | BrokenBarrierException e) {
             // Handle exception
