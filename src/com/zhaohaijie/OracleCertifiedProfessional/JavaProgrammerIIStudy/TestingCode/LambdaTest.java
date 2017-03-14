@@ -1,4 +1,4 @@
-package com.zhaohaijie.OracleCertifiedProfessional.JavaProgrammerIIStudy.Lambda;
+package com.zhaohaijie.OracleCertifiedProfessional.JavaProgrammerIIStudy.TestingCode;
 
 import java.util.stream.IntStream;
 

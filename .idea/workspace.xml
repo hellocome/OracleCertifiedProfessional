@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd0cad7-672b-45fb-a115-109f8450b555" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/Lambda/LambdaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/TestingCode/PathTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/BabyPandaBathManager.java" afterPath="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/BabyPandaBathManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/Lambda/LambdaTest.java" afterPath="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/TestingCode/LambdaTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +20,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BabyPandaBathManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BabyPandaBathManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/BabyPandaBathManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="30">
+              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/TestingCode/PathTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,7 +43,7 @@
         </entry>
       </file>
       <file leaf-file-name="LambdaTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/Lambda/LambdaTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/TestingCode/LambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
@@ -64,12 +74,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/Lambda/LambdaTest.java" />
         <option value="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/BabyPandaBathManager.java" />
+        <option value="$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/TestingCode/PathTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="1" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
     <option name="width" value="1292" />
     <option name="height" value="989" />
   </component>
@@ -138,7 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lambda" />
+              <option name="myItemId" value="TestingCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,7 +345,7 @@
     </configuration>
     <configuration default="false" name="Main" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.zhaohaijie.OracleCertifiedProfessional.JavaProgrammerIIStudy.BabyPandaBathManager" />
+      <option name="MAIN_CLASS_NAME" value="com.zhaohaijie.OracleCertifiedProfessional.JavaProgrammerIIStudy.TestingCode.PathTest" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -367,13 +378,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="1292" height="989" extended-state="0" />
+    <frame x="-7" y="2" width="1292" height="989" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -429,7 +440,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/Lambda/LambdaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/TestingCode/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
@@ -439,8 +450,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/BabyPandaBathManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="533" column="9" lean-forward="false" selection-start-line="533" selection-start-column="9" selection-end-line="533" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhaohaijie/OracleCertifiedProfessional/JavaProgrammerIIStudy/TestingCode/PathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
